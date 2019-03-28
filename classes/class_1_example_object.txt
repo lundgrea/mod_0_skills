@@ -1,0 +1,10 @@
+Yam Chips and Salsa
+
+Attributes
+7.00
+'yams, salt, pepper, fryer oil, tomatoes, cilantro, lime juice'
+true
+
+10-2 = 8
+3.50
+'yams, salt, pepper, fryer oil, tomatoes, cilantro, lime juice, guacamole'
