@@ -1,69 +1,69 @@
 Get Food At Restaurant
  - Get a Table
-  - Speak with Host
-   - Provide number of guests in the group
-   - Give them any special needs (ex. booster seat)
-   - Request table
-  - Choose Table
-   - Determined by number of guests
-   - Window seat or no?
-  - Sit
-   - Pull out chair
-   - Put behind in seat
-   - Scoot chair back in
- - Menu
-  - Receive menu
-   - Accept from host
-    - Extend hand in acceptance
-    - Grasp menu with hand
-   - Open menu
-    - Grab left side of menu
-    - Grab right side of menu
-    - Pull two sides apart exposing the interior
-  - Review menu
-   - Determine how hungry you are
-    - Figure out the last time you ate
-    - Figure out how much you had to eat
-    - Determine the amount of physical acticity since the last meal
-   - Review recent meals for repetition and redundancy
-    - Think back to previous meal
-    - Compare previous meal to current menu selections
-  - Make selection
-   - Salad
-   - Entree
-   - Dessert
+ 	- Speak with Host
+ 		- Provide number of guests in the group
+ 		- Give them any special needs (ex. booster seat)
+ 		- Request table
+	- Choose Table
+ 		- Determined by number of guests
+		- Window seat or no?
+	- Sit
+		- Pull out chair
+		- Put behind in seat
+		- Scoot chair back in
+- Menu
+ 	- Receive menu
+ 		- Accept from host
+ 		- Extend hand in acceptance
+ 		- Grasp menu with hand
+ 	- Open menu
+    	- Grab left side of menu
+    	- Grab right side of menu
+    	- Pull two sides apart exposing the interior
+ 	- Review menu
+		- Determine how hungry you are
+    	- Figure out the last time you ate
+    	- Figure out how much you had to eat
+    	- Determine the amount of physical acticity since the last meal
+		 - Review recent meals for repetition and redundancy
+    		- Think back to previous meal
+    		- Compare previous meal to current menu selections
+ - Make selection
+  	- Salad
+	- Entree
+	- Dessert
  - Order
-  - Speak with Server
-   - Ask for their favorites
-   - Share any dietary restrictons
-  - Provide selections
-   - Salad
-   - Entree
-   - Dessert
-  - Thank server
-   - Make eye contact
-   - Be geninuely appreciative
-   - Say thank you
+ 	- Speak with Server
+ 		- Ask for their favorites
+ 		- Share any dietary restrictons
+	- Provide selections
+		- Salad
+ 		- Entree
+		- Dessert
+ 	- Thank server
+ 		- Make eye contact
+ 		- Be geninuely appreciative
+ 		- Say thank you
  - Pay
-  - Receive check
-   - brought by server
-   - placed on table
-   - accompanied by mints
-  - Review check
-   - Pickup check
-   - Compare check to items consumed
-   - Communicate errors, if applicable
-  - Gather funds
-   - Take credit card from wallet
-   - Ensure adequate fund in account
-   - Place payment with check
-  - Process payment 
-   - Wait for server to arrive
-    - Be patient
-    - Do not call server over
-   - Pass along payment and tab to server
-   - Server processes payment
-    - Server takes card to terminal
-    - Server pulls up check
-    - Server runs car through POS
-    - Server returns card to guest
+ 	- Receive check
+ 		- Brought by server
+   		- Placed on table
+ 		- Accompanied by mints
+ 	- Review check
+ 	 	- Pickup check
+ 	 	- Compare check to items consumed
+ 	 	- Communicate errors, if applicable
+ 	- Gather funds
+ 		- Take credit card from wallet
+ 		- Ensure adequate fund in account
+ 		- Place payment with check
+ 	- Process payment 
+ 		- Wait for server to arrive
+    		- Be patient
+    		- Do not call server over
+   		- Pass along payment and tab to server
+   		- Server processes payment
+    		- Server takes card to terminal
+    		- Server pulls up check on POS
+   			- Server runs car through POS
+    	- Server returns card to guest
