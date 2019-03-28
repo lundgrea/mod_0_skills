@@ -1,0 +1,10 @@
+Class Menu Items in Restaurant
+
+Attributes
+price (float)
+ingredients (array)
+gluten_free (boolean)
+
+count remaining (takes total inventory minus items_sold)
+happy hour price (multiplies price by 50%)
+add_guacamole (add guacamole to ingredient array)
