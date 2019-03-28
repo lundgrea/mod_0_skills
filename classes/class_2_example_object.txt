@@ -1,0 +1,14 @@
+Henry Floyd
+
+Attributes
+false
+true
+'Castle Rock, CO'
+1986-10-18 07:21:04
+'yam chips and salsa'
+7.00
+
+
+32
+add_food
+7.00
