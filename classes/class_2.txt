@@ -1,0 +1,14 @@
+Class People in Restaurants
+
+Attributes
+employee (boolean)
+hungry (boolean)
+hometown (string)
+birthdate (datetime)
+order (string)
+order_costs (float)
+
+
+age (current date minus birthdate)
+add_fodd (if hungry boolean true and employee boolean false then add_food)
+ticket_price (add all order_costs)
